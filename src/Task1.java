@@ -9,7 +9,8 @@ public class Task1 {
         set.addAll(a);
         set.addAll(b);
 
-        ArrayList<String> result = new ArrayList<>(set);
+        ArrayList<String> result = new ArrayList<>(set); // is
+
         System.out.println(result);
     }
 }
